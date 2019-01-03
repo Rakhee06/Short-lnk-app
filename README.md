@@ -19,3 +19,7 @@ $ npm install
 $ meteor run
 ```
 * Above steps will start the server at `localhost:3000`
+
+### Link to the deployed application
+
+https://short-lnk-rakhee.herokuapp.com
